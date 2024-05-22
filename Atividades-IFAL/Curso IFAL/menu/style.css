@@ -1,0 +1,25 @@
+.menu{
+    border: 2px solid rgb(0, 0, 0, 0.098);
+    max-width: 250;
+    padding: 15px;
+    box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.098);
+}
+.menuzin{
+    border: 2px solid rgb(0, 0, 0, 0.098);
+    padding: 15px;
+    box-shadow: 3px 4px 3px rgb(0, 0, 0, 0.098);
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+figcaption{
+    font-family: Verdana, Geneva, sans-serif;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 0.9em;
+    text-align: center;
+}
+.btn{
+    color: aqua;
+}

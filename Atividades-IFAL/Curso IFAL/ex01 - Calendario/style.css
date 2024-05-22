@@ -1,0 +1,47 @@
+*{
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+.cab{
+    margin-left: 91px;
+}
+
+th{
+    color: white;
+    background: rgb(223, 14, 14);
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 0px 3px 0px rgba(0, 0, 0, 0.098);
+}
+
+table{
+    background-color: rgb(248, 232, 212);
+    color: rgb(90, 88, 86);
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0, 0.098);
+    padding: -1px;
+    box-shadow: 3px 3px 3px rgb(0, 0, 0, 0.098);
+}
+
+.corTd{
+    color: rgb(163, 171, 171);
+}
+.corTdPassou{
+    color: rgb(163, 171, 171);
+    text-decoration:line-through;
+}
+
+.domSab{
+    color: rgb(0, 0, 0);
+}
+
+.feriado{
+    color: red;
+    text-decoration:underline;
+}
+s{
+    color: red;
+    text-decoration:underline;
+}
+li{
+    list-style-type:square;
+}
